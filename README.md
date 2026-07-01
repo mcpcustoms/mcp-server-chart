@@ -1,3 +1,4 @@
+[![mcp-customs](https://img.shields.io/badge/mcp--customs-CLEARED_94%2F100-brightgreen)](https://mcpcustoms.github.io/?server=mcp-server-chart)
 # MCP Server Chart 
 
 A Model Context Protocol server for generating charts using [AntV](https://github.com/antvis/). We can use this mcp server for _chart generation_ and _data analysis_.
